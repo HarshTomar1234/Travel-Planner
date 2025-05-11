@@ -78,7 +78,7 @@ The system uses an agent-to-agent (A2A) communication architecture:
 
 ```bash
 git clone https://github.com/HarshTomar1234/Travel-Planner.git
-cd travel-planner-agent
+cd Travel-Planner
 ```
 
 ### Step 2: Install Dependencies
@@ -86,7 +86,6 @@ cd travel-planner-agent
 ```bash
 pip install -r requirements.txt
 ```
-
 ### Step 3: Set Up Environment Variables
 
 Create a `.env` file in the root directory with your OpenAI API key:
