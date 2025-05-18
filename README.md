@@ -122,7 +122,7 @@ In a fifth terminal window, run:
 streamlit run travel_trip.py
 ```
 
-The application will open in your default web browser at http://localhost:8501.
+The application will open in your default web browser at (http://localhost:8501).
 
 ### Step 3: Plan Your Trip
 
